@@ -1,4 +1,4 @@
-#!/usr/bin/env node
+#!/usr/bin/env node hw1.js
 var fs = require('fs');
 var outfile ="hell.txt";
 var out = "The world is your playground.\n";
